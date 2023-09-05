@@ -11,5 +11,6 @@ Onde os Padrões de Design Foram Aplicados:
 - Singleton Pattern: Aplicado na classe GerenciadorSingleton para garantir uma única instância do gerenciador.
 - Composite Pattern: Aplicado na classe OrquestradorLivro para criar uma estrutura hierárquica de componentes que pode conter livros ou outros OrquestradorLivro.
 
-Execução do Projeto
+Execução do Projeto:
+
 Para testar o sistema de gerenciamento de biblioteca e ver os padrões de design em ação, você pode executar o programa principal ProgramaBiblioteca.java.
